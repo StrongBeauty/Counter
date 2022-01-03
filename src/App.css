@@ -1,0 +1,146 @@
+.wrapper {
+    border: 5px solid lavender;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    float: left;
+    margin-left: 250px;
+}
+
+/*    padding: 10px;
+    margin: auto;
+    margin-top: 100px;*/
+
+.display {
+    border: 5px solid lavender;
+    width: 230px;
+    height: 110px;
+    border-radius: 5px;
+    background-color: lightskyblue;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    display: grid;
+    align-self: center;
+    justify-self: center;
+}
+
+.display-button {
+    border: 5px solid lavender;
+    width: 230px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: lightskyblue;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.textDisplay {
+    font-size: 50px;
+    color: lavender;;
+    display: grid;
+    align-self: center;
+    justify-self: center;
+    margin-top: 20px;
+}
+
+.button-inc {
+    border: 1px solid dodgerblue;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: lavender;
+    margin-left: 6px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-family: Verdana;
+    font-size: 150%;
+}
+
+.button-reset {
+    border: 1px solid dodgerblue;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: lavender;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: Verdana;
+    font-size: 150%;
+}
+
+.button-set {
+    border: 1px solid cornflowerblue;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: lavender;
+    margin-top: 10px;
+    margin-left: 90px;
+    font-family: Verdana;
+    font-size: 150%;
+}
+
+.attentionDisplay {
+    font-size: 50px;
+    color: hotpink;
+    display: grid;
+    align-self: center;
+    justify-self: center;
+    margin-top: 20px;
+}
+
+.input-initial{
+    border: 2px solid cornflowerblue;
+    width: 70px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: lavender;
+    font-family: Verdana;
+    margin-top: 0px;
+    margin-left: 100px;;
+}
+
+.input-initial-error{
+    border: 3px solid red;
+    width: 70px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: lightpink;
+    font-family: Verdana;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+.textSetting {
+    font-family: Verdana;
+    margin-top: 20px;
+    margin-left: 70px;
+    font-size: 150%;
+    font-weight: 900;
+    color: midnightblue;
+}
+
+.display-text-setting {
+    font-family: Verdana;
+    display: grid;
+    align-self: center;
+    justify-self: center;
+    margin-top: 20px;
+    font-size: 80%;
+    font-weight: 900;
+    color: midnightblue;
+}
+
+.display-text-error {
+    font-family: Verdana;
+    display: grid;
+    align-self: center;
+    justify-self: center;
+    margin-top: 20px;
+    font-size: 80%;
+    font-weight: 900;
+    color: midnightblue;
+}
